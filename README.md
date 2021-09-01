@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheNerdyCoder
+- 👋 Hi, I’m @Vedant
 - 👀 I’m interested in Artificial intelligence and Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
